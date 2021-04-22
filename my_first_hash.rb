@@ -16,7 +16,6 @@ the_manifest = {
   "porcelian vases" => 2 
   "oil paintings" => 3
 }
-
 end
 
 def retrieval
